@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_ic_lock.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_circle_white.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_circle_white.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\layout_item_patient.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\item_patient.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_ic_email.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_circle_white_alpha.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_circle_white_alpha.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_badge.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_badge.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_icon_teal.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_icon_teal.xml"
+    },
+    {
+        "merged": "com.example.patientapp-merged_res-4:/layout_activity_login.xml.flat",
+        "source": "com.example.patientapp-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_header_wave.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_header_wave.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\layout_activity_patient.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\activity_patient.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_avatar_header.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_avatar_header.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_gradient_card.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_gradient_card.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_ic_launcher.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_avatar.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-merged_res-4:\\drawable_bg_glow_circle.xml.flat",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\drawable\\bg_glow_circle.xml"
+    }
+]

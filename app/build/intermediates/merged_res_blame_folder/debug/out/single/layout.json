@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-mergeDebugResources-3:\\layout\\activity_patient.xml",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\activity_patient.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-mergeDebugResources-3:\\layout\\item_patient.xml",
+        "source": "D:\\gradle-home\\daemon\\8.11\\com.example.patientapp-main-6:\\layout\\item_patient.xml"
+    },
+    {
+        "merged": "com.example.patientapp-mergeDebugResources-3:/layout/activity_login.xml",
+        "source": "com.example.patientapp-main-6:/layout/activity_login.xml"
+    }
+]

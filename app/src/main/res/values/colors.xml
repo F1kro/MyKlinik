@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand - Deep Navy + Teal (inspired by Blueheart/Zest on Dribbble) -->
+    <color name="primary">#0EA5E9</color>
+    <color name="primary_dark">#0284C7</color>
+    <color name="primary_light">#E0F2FE</color>
+    <color name="accent">#06B6D4</color>
+    <color name="accent_purple">#8B5CF6</color>
+
+    <!-- Background - Deep Navy -->
+    <color name="bg_primary">#0F172A</color>
+    <color name="bg_surface">#1E293B</color>
+    <color name="bg_card">#1E293B</color>
+    <color name="bg_card_elevated">#263548</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_hint">#475569</color>
+
+    <!-- Gender -->
+    <color name="male_color">#0EA5E9</color>
+    <color name="female_color">#EC4899</color>
+
+    <!-- Status -->
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+
+    <!-- System -->
+    <color name="black">#FF000000</color>
+    <color name="divider">#1E293B</color>
+</resources>
