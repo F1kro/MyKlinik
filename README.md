@@ -23,7 +23,9 @@ Aplikasi Android Kotlin untuk login dan menampilkan data pasien menggunakan REST
 - **Data Pasien:** `GET https://api.pahrul.my.id/api/pasien` (Bearer Token)
 
 ## Screenshots
-`app/assets/ss1.jpeg`
+| Login | Data Pasien | Data Pasien 2 |
+|-------|-------------|---------------|
+| ![Login](app/assets/ss1.jpeg) | ![Data Pasien](app/assets/ss2.jpeg) | ![Data Pasien 2](app/assets/ss3.jpeg) |
 
 ## Setup
 1. Clone repo ini
