@@ -1,4 +1,4 @@
-# Patient App 🏥
+# My Klinik
 
 Aplikasi Android Kotlin untuk login dan menampilkan data pasien menggunakan REST API.
 
